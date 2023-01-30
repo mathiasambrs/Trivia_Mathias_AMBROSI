@@ -78,7 +78,7 @@
                         </option>
                         <option name="myPositions">
                           <map>
-                            <entry key="action_gameWonFragment_to_gameFragment">
+                            <entry key="actionGameOverFragmentToGameFragment">
                               <value>
                                 <LayoutPositions />
                               </value>
